@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[prasheen]]></title>
         <description><![CDATA[prasheen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prasheen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 07:58:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 08:08:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prasheen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>JOIN us for TEST SAMPLE</p>]]></description>
+            <link>https://thegrid.ai/prasheen/join-us-for-test-sample/index.html</link>
+            <guid isPermaLink="false">2f5fb756-caf7-451a-9bb9-8556fecaa3d9</guid>
+            <pubDate>Wed, 08 Jun 2016 08:06:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fist of Night]]></title>
             <description><![CDATA[<article><h1>Fist of Night</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f781f81-796a-4b0f-a043-fbc28af88645.jpg"></article>]]></description>
-            <link>undefinedfist-of-night/index.html</link>
+            <link>https://thegrid.ai/prasheen/fist-of-night/index.html</link>
             <guid isPermaLink="false">c0d47623-1dae-469f-932e-511a553aacc9</guid>
             <pubDate>Wed, 08 Jun 2016 07:58:36 GMT</pubDate>
         </item>
