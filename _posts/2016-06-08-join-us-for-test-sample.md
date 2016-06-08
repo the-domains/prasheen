@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: JOIN us for TEST SAMPLE
-datePublished: '2016-06-08T08:06:43.434Z'
-dateModified: '2016-06-08T08:06:25.919Z'
+datePublished: '2016-06-08T08:07:19.653Z'
+dateModified: '2016-06-08T08:06:52.943Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-08-join-us-for-test-sample.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-08-join-us-for-test-sample.md
 url: join-us-for-test-sample/index.html
 _type: Article
 
