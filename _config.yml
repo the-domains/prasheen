@@ -1,7 +1,7 @@
 name: prasheen
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5004555166233331
+typography_spectrum: 0.23841
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.014208548003807664
+  brandStrength: 0.625
   lightness: 0.27064576325938106
-  saturation: 0.7358131331857294
-  rhythmicContrast: 0.716608545044437
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
